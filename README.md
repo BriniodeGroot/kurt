@@ -13,4 +13,4 @@ password = "mijn_wachtwoord"
 id = "301113"
 ```
 
-Nadat dit is voltooid, moet je deze twee scripts een tijds trigger opzetten zodat ze elke dag op het juiste uur worden uitgevoerd.
+Nadat dit is voltooid, moet je bij deze twee scripts een tijds trigger opzetten zodat ze elke dag op het juiste uur worden uitgevoerd.
